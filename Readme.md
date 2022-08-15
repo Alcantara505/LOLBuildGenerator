@@ -4,7 +4,7 @@ Criei esse programa inspirado nos *personal gaming coaches* já existentes e con
 as minhas habilidades como programador! Portanto, não é um produto e sim o resultado de muito esforço e pesquisa de um aluno curioso. A ideia é ir aperfeiçoando
 ele ao longo do tempo conforme vou aprofundando o meu conhecimento na área.  
 ### **Como usar**  
-Dentro da pasta **dist/gui_main existe um executável de nome gui_main** o qual irá abrir uma janela solicitando o nome de um Campeão existente no jogo. Insira
+Dentro da pasta **dist/gui_main existe um executável de nome gui_main** o qual irá abrir uma janela solicitando o nome de um Campeão existente no jogo (ex.: Leona). Insira
 e clique no botão de busca ao lado.
 Feito isso, irá abrir outra janela com todos os itens recomendados do herói que você solicitou! 😉  
 Há, também, um menu em cima com a opção de Manutenção onde pode ser realizada a atualização do banco de dados a fim de atualizar a lista de recomendações,
